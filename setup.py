@@ -27,7 +27,8 @@ setup(
     include_package_data=True,
     zip_safe=False,
     classifiers=[
-        "Intended Audience :: Developers",
+        "Development Status :: 1 - Planning",
+        "Education :: Testing",
         "Natural Language :: English",
         "Programming Language :: Python :: 3 :: Only",
         "Programming Language :: Python :: 3",
